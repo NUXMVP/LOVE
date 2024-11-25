@@ -19,13 +19,13 @@ $LOVE tokens provide a platform for pseudonymous tithing, empowering donors to g
   - Liquidity and Transferability: Tokens can be added to AMMs and easily transferred back to centralized exchanges for greater accessibility.
 
 # Key Features
- - ## 1. Pseudonymous Tithing Foundation
+1. Pseudonymous Tithing Foundation
    - Secure, private donations using blockchain wallets, enabling privacy without complexity.
- - ## 2. Base Network Launch
+2. Base Network Launch
    - Initial deployment on Base ensures scalability, low fees, and Ethereum Layer 2 compatibility.
-  - ## 3. Bitcoin Layer 2 (Stacks) Integration
+3. Bitcoin Layer 2 (Stacks) Integration
     - Adds Bitcoin-linked smart contracts and DeFi tools like Automated Market Makers (AMMs).
-  - ## 4. Multi-Chain Expansion
+4. Multi-Chain Expansion
       - Compatible with top chains for easy token creation, liquidity provision, and exchange integration:
         - Ethereum (ETH): Create $LOVE tokens using the ERC-20 standard, add liquidity via Uniswap, and transfer to Coinbase/Kraken.
         - Solana (SOL): Use the SPL standard, with liquidity pools on Raydium and Orca.
@@ -33,7 +33,7 @@ $LOVE tokens provide a platform for pseudonymous tithing, empowering donors to g
         - Binance Smart Chain (BSC): Create tokens using BEP-20, add liquidity on PancakeSwap, and access Binance for transfers.
         - Avalanche (AVAX), Tron (TRX), Algorand (ALGO): Additional chains offer scalable and efficient options for tokenization and AMMs.
     - All Others: Other platforms such as Stacks, Fantom, and Harmony provide additional flexibility but may require bridging for exchange compatibility.
-  - ## 5. Roadmap for Growth
+5. Roadmap for Growth
     - Land with $LOVE: Build a robust ecosystem for tithing and engagement.
     - Expand to $JUSTICE: Empower equity and fairness-driven initiatives.
     - Advance with $TRUTH: Enhance transparency and accountability globally.
