@@ -70,20 +70,20 @@ The Activity Score is determined by the LOVEDAO using a combination of on-chain 
 
 
 # For Inquiries, Visit:
-$LOVE Token Address (Base): [Insert Address]
-Activity Score: 1
-GitHub: https://github.com/NUXMVP/LOVE
-Website: [Your Website URL]
-Contact: [Anonymous Email/Portal]
-$LOVE Liquidity Pool URL: [Insert URL]
+- $LOVE Token Address (Base): [Insert Address]
+- Activity Score: 1
+- GitHub: https://github.com/NUXMVP/LOVE
+- Website: [Your Website URL]
+- Contact: [Anonymous Email/Portal]
+- $LOVE Liquidity Pool URL: [Insert URL]
 
-FORKED $LOVE PROJECTS
-#1 - TBD
-$LOVE Token Address (Base): [Insert Address]
-Activity Score: 1
-GitHub: [Your GitHub Repository URL]
-Website: [Your Website URL]
-Contact: [Anonymous Email/Portal]
-$LOVE Liquidity Pool URL: [Insert URL]
+# FORKED $LOVE PROJECTS
+- #1 - TBD
+- $LOVE Token Address (Base): [Insert Address]
+- Activity Score: 1
+- GitHub: [Your GitHub Repository URL]
+- Website: [Your Website URL]
+- Contact: [Anonymous Email/Portal]
+- $LOVE Liquidity Pool URL: [Insert URL]
 
 
