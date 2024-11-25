@@ -19,7 +19,7 @@ $LOVE tokens provide a platform for pseudonymous tithing, empowering donors to g
   - Liquidity and Transferability: Tokens can be added to AMMs and easily transferred back to centralized exchanges for greater accessibility.
 
 # Key Features
- - # Pseudonymous Tithing Foundation
+ - ## Pseudonymous Tithing Foundation
    - Secure, private donations using blockchain wallets, enabling privacy without complexity.
  - # Base Network Launch
    - Initial deployment on Base ensures scalability, low fees, and Ethereum Layer 2 compatibility.
