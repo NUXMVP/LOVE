@@ -26,10 +26,10 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 - Build liquidity and establish tools for monitoring and engagement.
 
 2. Expand to $JUSTICE:
-- Fund equity and fairness-driven initiatives, supporting underserved communities globally.
+- Fund initiatives that address gaps or unintended consequences in existing systems, working to restore fairness and justice.
 
 3. Build on $TRUTH:
-- Create transparent, immutable records for accountability and trust in donations and funding.
+- Empower efforts to uncover and share the truth about the state of our systems, fostering transparency and accountability.
 
 ## Community and Participation
 The faith community holds a unique voice in the crypto world. $LOVE provides a platform to amplify that voice, bringing principles of faith, generosity, and stewardship into blockchain technology.
