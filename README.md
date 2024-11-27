@@ -15,7 +15,7 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 4. Cheerful Giving: Reflecting 2 Corinthians 9:7, enabling joyful, voluntary generosity.
 
 ## Key Features
-1. Decentralization: Like Bitcoin and Ethereum, the $LOVE ecosystem is community-controlled. No central authority; every participant has an equal voice.
+1. Decentralization: Like Bitcoin and Ethereum, the $LOVE ecosystem is fully community-driven, with no central authority; anyone can fork the project, create their own token, or establish new initiatives, fostering a truly decentralized and collaborative environment.
 2. Pseudonymous Tithing: Enables private, secure donations through blockchain wallets.
 3. Multi-Chain Accessibility: Operates across major blockchains (Base, Bitcoin Layer 2, Ethereum, Solana, and more), providing flexibility and scalability.
 4. Liquidity and Value Transfer: Seamlessly integrate with decentralized and centralized exchanges (MetaMask, Uniswap, Coinbase, Kraken).
