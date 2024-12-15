@@ -19,23 +19,23 @@ All the Ways to Get Involved with $LOVE
 The $LOVE movement is built on generosity, faith, and decentralized technology. There are many ways to contribute to the $LOVE ecosystem and help spread its mission:
 
 **Share, Swap, Hold, or Send $LOVE**
-1. Share $LOVE: Spread $LOVE tokens with your faith community, crypto small groups, or friends to inspire generosity and connection.
-2. Swap $LOVE: Use USDC to purchase $LOVE tokens, or swap $LOVE for USDC or ETH using platforms like MetaMask Swap or Uniswap. Your participation supports the ecosystem and helps grow its impact.
-3. Hold $LOVE: Keep $LOVE tokens in your wallet to demonstrate your commitment to the movement and support its long-term growth.
-4. Send $LOVE: Gift $LOVE tokens to others or your church’s public wallet address to encourage additional involvement.
+  - Share $LOVE: Spread $LOVE tokens with your faith community, crypto small groups, or friends to inspire generosity and connection.
+  - Swap $LOVE: Use USDC to purchase $LOVE tokens, or swap $LOVE for USDC or ETH using platforms like MetaMask Swap or Uniswap. Your participation supports the ecosystem and helps grow its impact.
+  - Hold $LOVE: Keep $LOVE tokens in your wallet to demonstrate your commitment to the movement and support its long-term growth.
+  - Send $LOVE: Gift $LOVE tokens to others or your church’s public wallet address to encourage additional involvement.
 
 ** Strengthen the $LOVE Ecosystem **
-5. Provide Liquidity: Add $LOVE and USDC to liquidity pools (e.g., Uniswap) to enhance token stability and availability for the community.
-6. Start a Faith-Based Crypto Small Group: Share $LOVE tokens with a group in your church or faith community. Explore topics like “Crypto and Christ” to inspire others to engage with $LOVE.
-7. Post Your Church’s Public Wallet Address: Share your church’s public wallet address on your website or social channels to encourage additional $LOVE donations from the community.
-8. Add a Blockchain Domain Name: Register a blockchain domain for your church, such as church.eth, to make donations simple and memorable.
+  - Provide Liquidity: Add $LOVE and USDC to liquidity pools (e.g., Uniswap) to enhance token stability and availability for the community.
+  - Start a Faith-Based Crypto Small Group: Share $LOVE tokens with a group in your church or faith community. Explore topics like “Crypto and Christ” to inspire others to engage with $LOVE.
+  - Post Your Church’s Public Wallet Address: Share your church’s public wallet address on your website or social channels to encourage additional $LOVE donations from the community.
+  - Add a Blockchain Domain Name: Register a blockchain domain for your church, such as church.eth, to make donations simple and memorable.
 
 **Participate in $LOVE Initiatives (Coming Soon)**
-9. Join the DAO: Use your $LOVE tokens to vote in the $LOVE DAO, a decentralized governance system shaping the future of the movement.
-10. Request $LOVE from a Faucet: Claim daily $LOVE tokens through the upcoming faucet feature, enabling new users to engage and grow the ecosystem.
+  - Join the DAO: Use your $LOVE tokens to vote in the $LOVE DAO, a decentralized governance system shaping the future of the movement.
+  - Request $LOVE from a Faucet: Claim daily $LOVE tokens through the upcoming faucet feature, enabling new users to engage and grow the ecosystem.
 
 **Promote and Expand $LOVE Projects**
-11. Fork $LOVE: Use the open-source tools available on GitHub to fork $LOVE and create your own $LOVE-based project, bringing its mission to new communities.
+  - Fork $LOVE: Use the open-source tools available on GitHub to fork $LOVE and create your own $LOVE-based project, bringing its mission to new communities.
 
 **Get Involved Today**
 Whether you’re swapping tokens, sharing $LOVE with your church, or joining a DAO vote, every action helps spread $LOVE, empower justice, and discover truth. Together, we can build a movement that makes an everlasting impact.
