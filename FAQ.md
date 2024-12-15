@@ -6,15 +6,13 @@ $LOVE is a crypto-powered movement designed to spread faith, love, and generosit
 
 2. How do I claim my $LOVE donation?
   - Step 1: Import the wallet into MetaMask.
-	 - Open MetaMask and select “Import Wallet.”
-	 - Enter the private key: ee5f435c83541a6ce9eb28bd6e0e147816dd1dbb4b21d3fde8f238a4c02f3094.
-
+    - Open MetaMask and select “Import Wallet.”
+    - Enter the private key: ee5f435c83541a6ce9eb28bd6e0e147816dd1dbb4b21d3fde8f238a4c02f3094.
   - Step 2: Manage your $LOVE tokens.
-   - Use MetaMask Swap or Uniswap to swap $LOVE for USDC or ETH, or consider holding $LOVE to support the ecosystem.
-
+    - Use MetaMask Swap or Uniswap to swap $LOVE for USDC or ETH, or consider holding $LOVE to support the ecosystem.
   - Step 3: Secure your funds.
-   - For long-term storage, transfer funds to a hardware wallet (e.g., Ledger or Trezor).
-   - Alternatively, send USDC or ETH to a Coinbase or Kraken exchange wallet.
+    - For long-term storage, transfer funds to a hardware wallet (e.g., Ledger or Trezor).
+    - Alternatively, send USDC or ETH to a Coinbase or Kraken exchange wallet.
 
 3. How can I get involved in the $LOVE movement?
 All the Ways to Get Involved with $LOVE
