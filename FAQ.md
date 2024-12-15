@@ -24,7 +24,7 @@ The $LOVE movement is built on generosity, faith, and decentralized technology. 
   - Hold $LOVE: Keep $LOVE tokens in your wallet to demonstrate your commitment to the movement and support its long-term growth.
   - Send $LOVE: Gift $LOVE tokens to others or your church’s public wallet address to encourage additional involvement.
 
-** Strengthen the $LOVE Ecosystem **
+**Strengthen the $LOVE Ecosystem**
   - Provide Liquidity: Add $LOVE and USDC to liquidity pools (e.g., Uniswap) to enhance token stability and availability for the community.
   - Start a Faith-Based Crypto Small Group: Share $LOVE tokens with a group in your church or faith community. Explore topics like “Crypto and Christ” to inspire others to engage with $LOVE.
   - Post Your Church’s Public Wallet Address: Share your church’s public wallet address on your website or social channels to encourage additional $LOVE donations from the community.
