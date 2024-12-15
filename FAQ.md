@@ -19,10 +19,10 @@ All the Ways to Get Involved with $LOVE
 The $LOVE movement is built on generosity, faith, and decentralized technology. There are many ways to contribute to the $LOVE ecosystem and help spread its mission:
 
 **Share, Swap, Hold, or Send $LOVE**
-	1. Share $LOVE: Spread $LOVE tokens with your faith community, crypto small groups, or friends to inspire generosity and connection.
-	2. Swap $LOVE: Use USDC to purchase $LOVE tokens, or swap $LOVE for USDC or ETH using platforms like MetaMask Swap or Uniswap. Your participation supports the ecosystem and helps grow its impact.
-	3. Hold $LOVE: Keep $LOVE tokens in your wallet to demonstrate your commitment to the movement and support its long-term growth.
-	4. Send $LOVE: Gift $LOVE tokens to others or your church’s public wallet address to encourage additional involvement.
+1. Share $LOVE: Spread $LOVE tokens with your faith community, crypto small groups, or friends to inspire generosity and connection.
+2. Swap $LOVE: Use USDC to purchase $LOVE tokens, or swap $LOVE for USDC or ETH using platforms like MetaMask Swap or Uniswap. Your participation supports the ecosystem and helps grow its impact.
+3. Hold $LOVE: Keep $LOVE tokens in your wallet to demonstrate your commitment to the movement and support its long-term growth.
+4. Send $LOVE: Gift $LOVE tokens to others or your church’s public wallet address to encourage additional involvement.
 
 **Strengthen the $LOVE Ecosystem**
 	5. Provide Liquidity: Add $LOVE and USDC to liquidity pools (e.g., Uniswap) to enhance token stability and availability for the community.
