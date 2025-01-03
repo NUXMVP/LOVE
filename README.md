@@ -48,8 +48,7 @@ The faith community holds a unique voice in the blockchain world. $LOVE provides
    Create, hold, and spread $LOVE tokens to incentivize goodwill and amplify activity.
 - Contribute Skills and Talents:
    Participate pseudonymously through GitHub repositories to monitor, build, and expand the $LOVE, $TRUTH and $JUSTICE networks.
-- Support Giving Initiatives:
-  Publically post a $LOVE wallet address (social media, website etc), share feedback, engage with projects, and spread the mission of faith-inspired giving globally.
+- Support Giving Initiatives: Publicly share a $LOVE wallet address on social media, websites, or other platforms. Provide feedback, engage with meaningful projects, and help spread the mission of faith-inspired giving to a global audience.
 
 ## Mission
 ## "Land with $LOVE. Build on $Truth. Expand to $Justice."
