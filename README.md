@@ -25,7 +25,12 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 - Launch on Base with tithing as the flagship use case.
 - Build liquidity and establish tools for monitoring and engagement.
 
-2. Expand to $JUSTICE:
+
+
+2. Build on $TRUTH:
+- Empower efforts to uncover and share the truth about the state of systems, fostering transparency and accountability.  Types of systems include product, service, financial, political, natural, family, spiritual, health, educational, community, technological, cultural, legal, and inner truth systems.
+
+3. Expand to $JUSTICE:
 - Fund initiatives that address gaps or unintended consequences in existing systems, working to restore fairness and justice.
 
 3. Build on $TRUTH:
