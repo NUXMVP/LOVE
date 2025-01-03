@@ -33,13 +33,13 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 - Fund initiatives that address gaps or unintended consequences in existing systems, working to restore fairness and justice.
 
 ## Community and Participation
-The faith community holds a unique voice in the crypto world. $LOVE provides a platform to amplify that voice, bringing principles of faith, generosity, and stewardship into blockchain technology.
+The faith community holds a unique voice in the blockchain world. $LOVE provides a platform to amplify that voice, bringing principles of faith, generosity, and stewardship into blockchain technology.
 - Open Governance: The future LOVEDAO will allow participants to shape the ecosystem through proposals and voting.
 - Activity-Driven Engagement: Contributions to GitHub, on-chain activity, and liquidity provision are rewarded using a Fibonacci-based Activity Score.
 
 ## Global Impact Potential
 - Faith-Based Generosity: Over $50 billion annually in tithing, demonstrating the immense power of collective giving for good.
-- Crypto Donations on the Rise: $300M in cryptocurrency donations in 2022 highlights growing adoption for transparent and borderless philanthropy.
+- Digital Asset Donations on the Rise: $300M in cryptocurrency donations in 2022 highlights growing adoption for transparent and borderless philanthropy.
 - Blockchain for Humanity: With the blockchain market estimated to grow to $39.7B by 2025, $LOVE leverages this transformative technology to empower billions through scalable goodwill and faith-based giving.
 - Scaling Generosity: The $LOVE ecosystem enables faith and community-driven action, empowering individuals and organizations to amplify their impact with tools for transparency, privacy, and global reach.
 
@@ -47,12 +47,12 @@ The faith community holds a unique voice in the crypto world. $LOVE provides a p
 - Join the Community:
    Create, hold, and spread $LOVE tokens to incentivize goodwill and amplify activity.
 - Contribute Skills and Talents:
-   Participate pseudonymously through GitHub repositories to monitor, build, and expand the $LOVE, $JUSTICE, and $TRUTH networks.
+   Participate pseudonymously through GitHub repositories to monitor, build, and expand the $LOVE, $TRUTH and $JUSTICE networks.
 - Support Giving Initiatives:
-  Share feedback, engage with projects, and spread the mission of faith-inspired giving globally.
+  Publically post a $LOVE wallet address (social media, website etc), share feedback, engage with projects, and spread the mission of faith-inspired giving globally.
 
-## Tagline
-## "Land with $LOVE. Expand to $JUSTICE. Build on $TRUTH."
+## Mission
+## "Land with $LOVE. Build on $Truth. Expand to $Justice."
 
 ## For Inquiries
 - $LOVE Token Contract Address: View on BaseScan - https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
