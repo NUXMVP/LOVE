@@ -1,4 +1,4 @@
-# $LOVE Project Overview: Bridging Faith, Community, and Crypto
+# $LOVE Project Overview: Bridging Faith, Community, and Blockchain
 ## Mission
 To build a fully decentralized, community-driven, multi-chain ecosystem powered by $LOVE tokens, enabling pseudonymous tithing, scalable giving, and transparent value exchange. Inspired by Biblical principles of generosity, trust, and unity, $LOVE empowers individuals and faith communities to give with privacy, transparency, and global scalability. The project envisions community control akin to Bitcoin and Ethereum, with contributors shaping the ecosystem collectively.
 
