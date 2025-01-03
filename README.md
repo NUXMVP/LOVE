@@ -39,11 +39,13 @@ The faith community holds a unique voice in the blockchain world. $LOVE provides
 - Open Governance: The future LOVEDAO will allow participants to shape the ecosystem through proposals and voting.
 - Activity-Driven Engagement: Contributions to GitHub, on-chain activity, and liquidity provision are rewarded using a Fibonacci-based Activity Score.
 
-## Global Impact Potential
-- Faith-Based Generosity: Over $50 billion annually in tithing, demonstrating the immense power of collective giving for good.
-- Digital Asset Donations on the Rise: $300M in cryptocurrency donations in 2022 highlights growing adoption for transparent and borderless philanthropy.
-- Blockchain for Humanity: With the blockchain market estimated to grow to $39.7B by 2025, $LOVE leverages this transformative technology to empower billions through scalable goodwill and faith-based giving.
-- Scaling Generosity: The $LOVE ecosystem enables faith and community-driven action, empowering individuals and organizations to amplify their impact with tools for transparency, privacy, and global reach.
+## Faith-Based Generosity
+- Annual Contributions: In 2021, donations to religious organizations in the United States totaled approximately $135.78 billion, accounting for 27% of all charitable giving. ￼
+- Average Giving per Attendee: In Methodist congregations, the average annual donation per attendee was about $2,300. ￼
+
+## Digital Asset Donations
+- Total Ditial Asset Donations: Over the past five years, more than $2 billion in cryptocurrency has been donated to charitable causes. ￼
+- Adoption by Charities: As of January 2024, 56% of the top 100 U.S. charities have started accepting cryptocurrency donations.
 
 ## How to Get Involved
 - Join the Community:
