@@ -2,7 +2,7 @@
 ## Mission
 To build a fully decentralized, community-driven, multi-chain ecosystem powered by $LOVE tokens, enabling pseudonymous tithing, scalable giving, and transparent value exchange. Inspired by Biblical principles of generosity, trust, and unity, $LOVE empowers individuals and faith communities to give with privacy, transparency, and global scalability. The project envisions community control akin to Bitcoin and Ethereum, with contributors shaping the ecosystem collectively.
 
-## "Land with $LOVE. Biuld on $TRUTH. Expand to $JUSTICE"
+## "Land with $LOVE. Build on $TRUTH. Expand to $JUSTICE"
 
 ## Vision for $LOVE Tithing
 We believe in a modern expression of faith-inspired generosity, rooted in Biblical principles like Malachi 3:10:
