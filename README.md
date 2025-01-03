@@ -10,7 +10,7 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 
 ## $LOVE Tithing Belief:
 1. Faith in Action: A tangible way to test and trust God’s provision.
-2. Community Empowerment: Amplify the voice of faith in crypto, creating a bridge between Christ and blockchain.
+2. Community Empowerment: Amplify the voice of faith in crypto, creating a bridge between Faith and blockchain.
 3. Transparency and Trust: Using blockchain to ensure integrity and accountability.
 4. Cheerful Giving: Reflecting 2 Corinthians 9:7, enabling joyful, voluntary generosity.
 
