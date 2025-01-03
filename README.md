@@ -32,7 +32,7 @@ We believe in a modern expression of faith-inspired generosity, rooted in Biblic
 3. Expand to $JUSTICE:
 - Fund initiatives that address gaps or unintended consequences in existing systems, working to restore fairness and justice.
 
-## $LOVE ($TRUTH ($JUSTICE))
+# $LOVE ($TRUTH ($JUSTICE))
 
 ## Community and Participation
 The faith community holds a unique voice in the blockchain world. $LOVE provides a platform to amplify that voice, bringing principles of faith, generosity, and stewardship into blockchain technology.
