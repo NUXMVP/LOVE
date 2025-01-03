@@ -55,7 +55,7 @@ The faith community holds a unique voice in the blockchain world. $LOVE provides
 - Support Giving Initiatives: Publicly share a $LOVE wallet address on social media, websites, or other platforms. Provide feedback, engage with meaningful projects, and help spread the mission of faith-inspired giving to a global audience.
 
 ## Mission
-## "Land with $LOVE. Build on $Truth. Expand to $Justice."
+## "Land with $LOVE. Build on $TRUTH. Expand to $JUSTICE."
 
 ## For Inquiries
 - $LOVE Token Contract Address: View on BaseScan - https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
