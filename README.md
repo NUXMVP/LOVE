@@ -1,5 +1,6 @@
-![$LOVE Banner](https://github.com/NUXMVP/LOVE/blob/main/LOVEBTC.png))
+![$LOVE Banner](https://github.com/NUXMVP/LOVE/blob/main/LOVEBTC.png)
 
+---
 
 # 🥰 $LOVE is Decentralized  
 
