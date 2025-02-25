@@ -1,4 +1,4 @@
-![$LOVE Banner](IMAGE_URL_HERE)
+![$LOVE Banner](https://github.com/NUXMVP/LOVE/blob/main/LOVEBTC.png))
 
 
 # 🥰 $LOVE is Decentralized  
