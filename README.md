@@ -6,7 +6,7 @@
 
 https://app.uniswap.org/#/swap?chain=base&outputCurrency=0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
 
-🔗 [Track on-Chain](https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f)
+🔗 [Track On-Chain](https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f)
 
 https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f
 
