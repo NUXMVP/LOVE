@@ -13,7 +13,7 @@
 ## 🛣️ Roadmap  
 **$LOVE** → **($TRUTH → ($JUSTICE))**  
 
-- 🌱 **$LOVE** (`main` branch) – Community, Growth, and Decentralization.  
+- 🌱 **$LOVE** (`main` branch) – **Community, Growth, and Decentralization.**  
 - 🔍 **$TRUTH** (`truth` branch) – **Discovering the truth of systems using human-driven testing.**  
 - ⚖️ **$JUSTICE** (`justice` branch) – **Ensuring fairness and governance based on truth.**  
 
