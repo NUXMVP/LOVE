@@ -1,6 +1,6 @@
-# 💖 $LOVE is Decentralized  
+#🥰 $LOVE is Decentralized  
 
-🥰 Seed It. 🤔 Watch It Grow. 🚀  
+🤔 Seed It. Watch It Grow. 🚀  
 
 📈 [Buy on Uniswap](https://app.uniswap.org/#/swap?chain=base&outputCurrency=0xF4d749aBDD407Ec2158eC6273937C8251E42c07f)  
 🔗 [Track on-Chain]([ETHERSCAN_LINK](https://basescan.org/token/0xF4d749aBDD407Ec2158eC6273937C8251E42c07f)  
