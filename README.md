@@ -1,4 +1,4 @@
-#🥰 $LOVE is Decentralized  
+# 🥰 $LOVE is Decentralized  
 
 🤔 Seed It. Watch It Grow. 🚀  
 
