@@ -1,4 +1,4 @@
-
+![$LOVE Banner](IMAGE_URL_HERE)
 
 
 # 🥰 $LOVE is Decentralized  
