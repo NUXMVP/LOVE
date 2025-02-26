@@ -2,7 +2,7 @@
 
 ---
 
-# 🥰 $LOVE is Decentralized  
+# 🥰 $TRUTH is Decentralized  
 
 🤔 **Seed It. Watch It Grow.** 🚀  
 
