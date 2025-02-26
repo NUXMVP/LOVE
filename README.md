@@ -2,7 +2,7 @@
 
 ---
 
-# 🥰 $LOVE is Decentralized  
+# 🥰 $JUSTICE is Decentralized  
 
 🤔 **Seed It. Watch It Grow.** 🚀  
 
