@@ -17,5 +17,6 @@
 - 🌱 **$LOVE** (`main` branch) – **Community, Growth, and Decentralization.**  
 - 🔍 **$TRUTH** (`truth` branch) – **Discovering the truth of systems using human-driven testing.**  
 - ⚖️ **$JUSTICE** (`justice` branch) – **Ensuring fairness and governance based on truth.**  
+- 💡 **$IDEA** (`idea` branch) coming soon – **Generating and refining raw ideas through decentralized collaboration, AI insights, and human-driven testing.**
 
 🛠️ Each concept is a work in progress. Contribute to the respective branches!  
